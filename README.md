@@ -1,1 +1,2 @@
 # SolitaireUsingPython
+Wish Solitaire.
